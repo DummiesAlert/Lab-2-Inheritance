@@ -1,0 +1,8 @@
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab_2_Inheritance\bin\Debug\CPRG211D-Lab2.exe.config
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab_2_Inheritance\bin\Debug\CPRG211D-Lab2.exe
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab_2_Inheritance\bin\Debug\CPRG211D-Lab2.pdb
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab_2_Inheritance\obj\Debug\Lab_2_Inheritance.csproj.AssemblyReference.cache
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab_2_Inheritance\obj\Debug\Lab_2_Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab_2_Inheritance\obj\Debug\Lab_2_Inheritance.csproj.CoreCompileInputs.cache
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab_2_Inheritance\obj\Debug\CPRG211D-Lab2.exe
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab_2_Inheritance\obj\Debug\CPRG211D-Lab2.pdb
